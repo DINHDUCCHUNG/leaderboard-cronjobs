@@ -2,7 +2,7 @@
   "crons": [
     {
       "path": "/api/refresh-board",
-      "schedule": "0 0 * * *"
+      "schedule": "40 16 * * *"
     }
   ]
 }
